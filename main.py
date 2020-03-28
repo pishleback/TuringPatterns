@@ -1,0 +1,3 @@
+import redif
+
+redif.run()
