@@ -1,5 +1,6 @@
 # TuringPatterns
 
+Run main.py to use this program.
+
 Controls:
-Mousewheel & mouse position to change feed and kill parameters
-wsad to change lighting position
+Mousewheel & mouse position to change feed and kill parameters.
